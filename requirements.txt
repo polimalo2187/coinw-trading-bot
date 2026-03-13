@@ -1,0 +1,8 @@
+aiohttp==3.9.5
+aiogram==3.4.1
+pymongo==4.7.2
+python-dotenv==1.0.1
+requests==2.31.0
+pandas==2.2.2
+numpy==1.26.4
+ta==0.11.0
